@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+<shape xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:shape="rectangle"
+    
+    >
+    
+    <corners 
+        
+        android:topLeftRadius="@dimen/V5dip"
+        android:topRightRadius="@dimen/V5dip"
+        />
+    
+    <solid android:color="#929292"/>
+    
+     <gradient
+        android:startColor="@color/buttonSelectedTopBg"
+        android:centerColor="@color/BottomBar"
+        android:endColor="@color/BottomBar"
+        android:angle="270" />
+     
+
+</shape>
+-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <!--
+         <padding android:top="1px"
+        android:left="1px"
+        android:right="1px"
+        android:bottom="1px"
+        />
+    -->
+    <!-- <solid android:color="#33ffffff" /> -->
+
+    <!-- <gradient
+        android:angle="270"
+        android:centerColor="#393939"
+        android:endColor="#010101"
+        android:startColor="#7d7d7d" /> -->
+        
+        <gradient android:angle="270" android:centerColor="#393939" android:endColor="#010101" android:startColor="#7d7d7d"/><corners android:radius="@dimen/V10dip"/>
+
+    <corners android:radius="@dimen/V8dip" />
+
+</shape>

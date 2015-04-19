@@ -1,0 +1,71 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+       <!-- dimens used -->
+    <dimen name="V1dip">1dip</dimen>
+    <dimen name="V2dip">2dip</dimen>
+    <dimen name="V3dip">3dip</dimen>
+    <dimen name="V4dip">4dip</dimen>
+    <dimen name="V5dip">5dip</dimen>
+    <dimen name="V6dip">6dip</dimen>
+    <dimen name="V7dip">7dip</dimen>
+    <dimen name="V8dip">8dip</dimen>
+    <dimen name="V9dip">9dip</dimen>
+    <dimen name="V10dip">10dip</dimen>
+    <dimen name="V11dip">11dip</dimen>
+    <dimen name="V12dip">12dip</dimen>
+    <dimen name="V13dip">13dip</dimen>
+    <dimen name="V14dip">14dip</dimen>
+    <dimen name="V15dip">15dip</dimen>
+    <dimen name="V16dip">16dip</dimen>
+    <dimen name="V18dip">18dip</dimen>
+    <dimen name="V20dip">20dip</dimen>
+    <dimen name="V22dip">22dip</dimen>
+    <dimen name="V25dip">25dip</dimen>
+    <dimen name="V30dip">30dip</dimen>
+    <dimen name="V34dip">34dip</dimen>
+    <dimen name="V35dip">35dip</dimen>
+    <dimen name="V40dip">40dip</dimen>
+    <dimen name="V42dip">42dip</dimen>
+    <dimen name="V45dip">45dip</dimen>
+    <dimen name="V50dip">50dip</dimen>
+    <dimen name="V55dip">55dip</dimen>
+    <dimen name="V70dip">70dip</dimen>
+    <dimen name="V60dip">60dip</dimen>
+    <dimen name="V61dip">61dip</dimen>
+    <dimen name="V75dip">75dip</dimen>
+    <dimen name="V80dip">80dip</dimen>
+    <dimen name="V87dip">87dip</dimen>
+    <dimen name="V90dip">90dip</dimen>
+    <dimen name="V96dip">96dip</dimen>
+    <dimen name="V100dip">100dip</dimen>
+    <dimen name="V105dip">105dip</dimen>
+    <dimen name="V120dip">120dip</dimen>
+    <dimen name="V125dip">125dip</dimen>
+    <dimen name="V130dip">130dip</dimen>
+    <dimen name="V135dip">135dip</dimen>
+    <dimen name="V140dip">140dip</dimen>
+    <dimen name="V145dip">145dip</dimen>
+    <dimen name="V155dip">155dip</dimen>
+    <dimen name="V160dip">160dip</dimen>
+    <dimen name="V150dip">150dip</dimen>
+    <dimen name="V170dip">170dip</dimen>
+    <dimen name="V180dip">180dip</dimen>
+    <dimen name="V190dip">190dip</dimen>
+    <dimen name="V200dip">200dip</dimen>
+    <dimen name="V210dip">210dip</dimen>
+    <dimen name="V220dip">220dip</dimen>
+    <dimen name="V230dip">230dip</dimen>
+    <dimen name="V240dip">240dip</dimen>
+    <dimen name="V250dip">250dip</dimen>
+    <dimen name="V260dip">260dip</dimen>
+    <dimen name="V280dip">280dip</dimen>
+    <dimen name="V300dip">300dip</dimen>
+	<dimen name="V320dip">320dip</dimen>
+	<dimen name="V400dip">400dip</dimen>
+    <dimen name="V600dip">600dip</dimen>
+    <dimen name="V620dip">620dip</dimen>
+</resources>

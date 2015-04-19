@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="HomeHeader">#5d5d5d</color>
+    <color name="HomeFragmentBg">#c4c4c4</color>
+    <color name="BottomBar">#1a1a1a</color>
+    <color name="dummyListTextColor">#8f8f8f</color>
+    <color name="devicesTitleBarColor">#444444</color>
+    <color name="ZoneListItemBg">#015de6</color>
+    
+    <color name="statusTextColor">#015de6</color>
+    <color name="buttonSelectedTopBg">#929292</color>
+    <color name="blueText">#0000ff</color>
+    <color name="redText">#ff0000</color>
+    <color name="settingsBg">#dcdfe4</color>
+    <color name="test1">#b9522a</color>
+    <color name="test2">#167fca</color>
+    
+    <color name="skybluebg">#0c0000ff</color>
+    
+    <color name="dividerColor">#aaaaaa</color>
+    <color name="heatTempColor">#ff0000</color>
+    <color name="coolTempColor">#c1ffff</color>
+    <color name="heatTextColor">#555555</color>
+    <color name="sprinklerHeaderColor">#4c566c</color>
+    
+    
+    <color name="splashScreenColor">#D98313</color><!-- color name="titleBarColor">#2F4A69</color-->
+    <color name="titleBarColor">#000000</color>
+    
+    <!-- <color name="splashScreenColor">#1780aa</color>2B6F6F
+    <color name="titleBarColor">#444444</color> -->
+    <color name="participationBarColor">#521717</color>
+    
+    <color name="editBoxColor">#eeeeee</color>
+    
+</resources>
